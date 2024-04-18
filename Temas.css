@@ -1,45 +1,26 @@
 .Contenedor{
 
-
-
-
 width: 100%;
-height: 800px;
+height: 100px;
 background-color:aquamarine;
 display: flex;
 flex-direction: column;
-font-size:5pc;
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-color: brown;
 }
 
-
-.Encabezado{
-
-    width: 100%;
-    height: 20px;
-    background-color: darksalmon;
-
-    font-size: 10pc;
-    font-family: Arial, Helvetica, sans-serif;
-    color: hotpink;
-
-}
 .Matematicas{
 
     width: 100%;
-    height:1200px;
+    height:800px;
     background-color:bisque ;
-font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+
 }
 
 .Biologia{
     width: 100%;
-    height: 1200px;
+    height: 1000px;
     background-color: palevioletred;
-    font-size:x-large ;
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: initial;
 
 }
 .Quimica{
