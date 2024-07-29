@@ -24,3 +24,10 @@ body{
 
 
 }
+.img1{
+    height: 300px;
+    width: 300px;
+    background-image: url("circuitos.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
