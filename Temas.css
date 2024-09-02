@@ -5,12 +5,12 @@
 
 width: 100%;
 height: 800px;
-background-color:rgb(62, 124, 54);
+background-color:rgb(124, 105, 54);
 display: flex;
 flex-direction: column;
 font-size:5pc;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-color: brown;
+color: rgb(181, 0, 0);
 }
 
 
